@@ -15,3 +15,17 @@ Intune value (Edge "Control which extensions are installed silently" and Chrome 
 ```
 bgognegigfjkjiajdgdkkpfgjcfplfgl;https://aio-toolkit.github.io/ad-lookup-releases/update.xml
 ```
+
+## AIO M365 Admin Tool
+
+| File | What it is |
+|---|---|
+| `admin/update.xml` | The address Edge and Chrome check for new versions |
+| `admin/aio-m365-admin-tool.crx` | The signed extension |
+
+Intune value (same two settings, assigned to the M365 admins group):
+
+```
+jdnhhogiboinpkmlelgcgbhbmgfnbjpk;https://aio-toolkit.github.io/ad-lookup-releases/admin/update.xml
+```
+
