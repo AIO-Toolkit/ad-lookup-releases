@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='jdnhhogiboinpkmlelgcgbhbmgfnbjpk'>
-    <updatecheck codebase='https://aio-toolkit.github.io/ad-lookup-releases/admin/aio-m365-admin-tool.crx' version='1.0.4' />
+    <updatecheck codebase='https://aio-toolkit.github.io/ad-lookup-releases/admin/aio-m365-admin-tool.crx' version='1.0.5' />
   </app>
 </gupdate>
